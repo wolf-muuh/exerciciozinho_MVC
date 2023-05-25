@@ -1,0 +1,5 @@
+C:\Users\54750759805\Desktop\exerciciozinho_MVC\obj\Debug\net7.0\exerciciozinho_MVC.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\exerciciozinho_MVC\obj\Debug\net7.0\exerciciozinho_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\exerciciozinho_MVC\obj\Debug\net7.0\exerciciozinho_MVC.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\exerciciozinho_MVC\obj\Debug\net7.0\exerciciozinho_MVC.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\exerciciozinho_MVC\obj\Debug\net7.0\exerciciozinho_MVC.csproj.CoreCompileInputs.cache
